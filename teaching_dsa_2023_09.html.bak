@@ -47,10 +47,15 @@
 
 							<!-- Publications -->
 								<section>
-									<h2>Skills for Communicating Information (IT007UN)</h2>
+									<h2>Algorithms &amp Data Structures - MSc(IT511)</h2>
+
 									<!-- Content -->
 									<div class="row">
 										<div class="col-6 col-12-small">
+											<dl>
+												<dd>(to be updated)</dd>
+											</dl>
+											<!--
 											<h4>COURSE OVERVIEW</h4>
 												<dl>
 													<dd>Effective communication is a powerful skill that can help you achieve your objectives, whether presenting to one person or one thousand. This course aims to enhance your communication skills by enabling you to focus on your goals, understand your audience, and convey your message with clarity and impact.</dd>
@@ -99,7 +104,7 @@
 													<dd>
 														<ul>
 															<li>Wed 21/06/2023: First lecture</li>
-															<li>Wed 04/07/2023: Midterm - (end of the afternoon session)</li>
+															<li>Wed 05/07/2023: Midterm</li>
 															<li>Wed 26/07/2023: Last lecture</li>
 															<li>Final: TBA</li>
 														</ul>
@@ -130,8 +135,7 @@
 													<dd>
 													<ul>
 														<li><b>Presentation</b>: Unless communicated earlier, students will present their presentation assignments in class and with everyone participating.</li>
-														<li><b>Blackboard</b>: Assignments must be submitted to Blackboard by midnight of the given dates. Submission sent to my email will not be accepted. The system may be prolonged near the deadline, so make sure that you plan ahead.</li>
-														<li><b>Late submission</b>: Late submission within 24 hours after the deadline will get 50% of the mark, and zero if later than 24 hours.</li>
+														<li><b>Blackboard</b>: Assignments must be submitted by midnight of the given dates. The system may be prolonged near the deadline, so make sure that you plan ahead.</li>
 													</dd>
 												</dl>
 
@@ -144,10 +148,10 @@
 													<dd>Wed 28/06/2023</dd>
 
 													<dt>Lecture 3</dt>
-													<dd><b>Tue 04/07/2023</b> (old date: <s>Wed 05/07/2023</s>)</dd>
+													<dd>Wed 05/07/2023</dd>
 													
 													<dt>Lecture 4</dt>
-													<dd><b>Tue 11/07/2023</b> (old date: <s>Wed 12/07/2023</s>)</dd>
+													<dd>Wed 12/07/2023</dd>
 													
 													<dt>Lecture 5</dt>
 													<dd>Wed 19/07/2023</dd>
@@ -156,6 +160,7 @@
 													<dd>Wed 26/07/2023</dd>
 
 												</dl>
+												-->
 										</div>
 									</div>
 								</section>

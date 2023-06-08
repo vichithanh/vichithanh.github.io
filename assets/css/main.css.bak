@@ -51,7 +51,7 @@
 /* publication tag */
 .ribbon {
   width: 60px;
-  font-size: 16px;
+  font-size: 13px;
   font-weight: normal;
   padding: 2px;
   right: 0px;

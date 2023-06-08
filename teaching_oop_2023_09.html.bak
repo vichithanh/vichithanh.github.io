@@ -1,4 +1,4 @@
-ï»¿<!DOCTYPE HTML>
+<!DOCTYPE HTML>
 <!--
 	Editorial by HTML5 UP
 	html5up.net | @ajlkn
@@ -47,7 +47,8 @@
 
 							<!-- Publications -->
 								<section>
-									<h2>Algorithms &amp Data Structures (IT013IU)</h2>
+									<h2>Object-Oriented Programming in Java (IT069IU)
+</h2>
 
 									<!-- Content -->
 									<div class="row">
@@ -93,8 +94,8 @@
 													<dt>Textbooks</dt>
 													<dd>
 														<ul>
-															<li>Communication Skills.Â (2009).Â United States:Â Ferguson. (<a href="https://www.google.com.vn/books/edition/Communication_Skills/wsrmvak9PTMC?hl=en&gbpv=0" target="_blank">Google Books</a>)</li>
-															<li>Loewy,Â D.,Â Guffey,Â M.Â E.Â (2014).Â Business Communication: Process and Product.Â United States:Â Cengage Learning. (<a href="https://www.google.com.vn/books/edition/Business_Communication_Process_and_Produ/aaGeAwAAQBAJ?hl=en&gbpv=0" target="_blank">Google Books</a>)</li>
+															<li>Communication Skills. (2009). United States: Ferguson. (<a href="https://www.google.com.vn/books/edition/Communication_Skills/wsrmvak9PTMC?hl=en&gbpv=0" target="_blank">Google Books</a>)</li>
+															<li>Loewy, D., Guffey, M. E. (2014). Business Communication: Process and Product. United States: Cengage Learning. (<a href="https://www.google.com.vn/books/edition/Business_Communication_Process_and_Produ/aaGeAwAAQBAJ?hl=en&gbpv=0" target="_blank">Google Books</a>)</li>
 														</ul>
 													</dd>
 												</dl>

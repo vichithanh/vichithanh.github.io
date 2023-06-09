@@ -50,6 +50,13 @@
 							<!-- Publications -->
 								<section>
 									<h2>Publications</h2>
+
+									<p>
+										My information about me on <a href="https://scholar.google.co.uk/citations?user=CnWxmt8AAAAJ&hl=en" target="_blank">Google Scholar</a>, 
+										<a href="https://www.scopus.com/authid/detail.uri?authorId=55247108300" target="_blank">Scopus</a>, and 
+										<a href="https://orcid.org/0000-0002-1686-5549" target="_blank">ORCID</a>. 										
+									</p>
+
 									<h3>2023</h3>
 									<p>
 										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.3389/fcomp.2023.1128229"></div>
@@ -63,7 +70,7 @@
 									</p>
 
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1016/j.foodqual.2023.104845"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1016/j.foodqual.2023.104845"></div>
 										<span class="ribbon">journal</span><br />
 										Rhiannon Mae Armitage, Vasiliki Iatridi, Chi Thanh Vi, Martin Richard Yeomans<br />
 										<b>Phenotypic differences in taste hedonics: the effects of sweet liking.</b><br />
@@ -76,7 +83,7 @@
 
 									<h3>2022</h3>
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1016/j.appet.2022.106238"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1016/j.appet.2022.106238"></div>
 										<span class="ribbon">poster</span><br />
 										Chi Vi, Patricia Cornelio, Marianna Obrist, Martin Yeomans<br />
 										<b>Evaluating the sense of agency for taste in moderate sweet likers.</b><br />
@@ -87,7 +94,7 @@
 									</p>
 									
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1016/j.physbeh.2022.113702"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1016/j.physbeh.2022.113702"></div>
 										<span class="ribbon">journal</span><br />
 										Martin R Yeomans, Chi Vi, Narmeen Mohammed, Rhiannon M Armitage<br />
 										<b>Re-evaluating how sweet-liking and PROP-tasting are related.</b><br />
@@ -98,7 +105,7 @@
 									</p>
 									
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1016/j.appet.2021.105566"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1016/j.appet.2021.105566"></div>
 										<span class="ribbon">poster</span><br />
 										Rhiannon M. Armitage, Chi Vi, Martin R. Yeomans<br />
 										<b>Exploring phenotypic differences in the remembered experience of odours: the effects of sweet liking.</b><br />
@@ -109,7 +116,7 @@
 									</p>
 									
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1016/j.appet.2022.106238"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1016/j.appet.2022.106238"></div>
 										<span class="ribbon">poster</span><br />
 										Chi Thanh Vi, Lydia Henke, Patricia Cornelio Matinez, Marianna Obrist, Martin Yeomans<br />
 										<b>Exploring the effect of taste on sense of agency and predictions from eating behaviour.</b><br />
@@ -121,7 +128,7 @@
 									
 									<h3>2021</h3>
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1016/j.physbeh.2021.113600"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1016/j.physbeh.2021.113600"></div>
 										<span class="ribbon">journal</span><br />
 										Martin R Yeomans, Thomas Ridley-Siegert, Chi Vi, Hans S.Crombag<br />
 										<b>Visual cues associated with sweet taste increase short-term eating and grab attention in healthy volunteers.</b><br />
@@ -131,7 +138,7 @@
 										<a href="" class="button small">BibTeX</a>								
 									</p>
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1145/3447404.3447412"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1145/3447404.3447412"></div>
 										<span class="ribbon">book chapter</span><br />
 										Jason Alexander and Chi Thanh Vi<br />
 										<b>DSP Basics</b><br />
@@ -143,7 +150,7 @@
 																	
 									<h3>2020</h3>
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1145/3395035.3425655"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1145/3395035.3425655"></div>
 										<span class="ribbon">conference</span><br />
 										Chi Thanh Vi, Asier Marzo, Dmitrijs Dmitrenko, Martin Yeomans, and Marianna Obrist<br />
 										<b>Eating Like an Astronaut: How Children Are Willing to Eat “Flying” Food Using Acoustic Levitation.</b><br />
@@ -153,7 +160,7 @@
 										<a href="" class="button small">BibTeX</a>																			
 									</p>
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1016/j.appet.2020.104939"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1016/j.appet.2020.104939"></div>
 										<span class="ribbon">journal</span><br />
 										Rhiannon Armitage, Chi Vi, Vasiliki Iatridi, Martin R. Yeomans.<br />
 										<b>Understanding sweet-liker phenotypes: exploring habitual intake of western diet, impulsitivity and childhood eating experience.</b><br />
@@ -162,7 +169,7 @@
 										<a href="" class="button small">BibTeX</a>																			
 									</p>						
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="xx.xxxx/x.xxxxx.2020.xxxxxx"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="xx.xxxx/x.xxxxx.2020.xxxxxx"></div>
 										<span class="ribbon">journal</span><br />
 										Martin Yeomans, Vasiliki Iatridi, Rhiannon Armitage, Chi Thanh Vi<br />
 										<b>Understanding sweet-liker phenotypes: strong liking for sweetness is associated with higher reward sensitivity but lower adiposity.</b><br />
@@ -171,7 +178,7 @@
 										<a href="" class="button small">BibTeX</a>																													
 									</p>		
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="xx.xxxx/x.xxxxx.2020.xxxxxx"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="xx.xxxx/x.xxxxx.2020.xxxxxx"></div>
 										<span class="ribbon">poster</span><br />
 										Chi Thanh Vi, Asier Marzo, Gianluca Memoli, Emanuela Maggioni, Damien Ablart, Martin Yeomans, Marianna Obrist<br />
 										<b>Multisensory Integration in Levitating Food and the Effect of Vision and Smell on Flavour Perception.</b><br />
@@ -181,7 +188,7 @@
 										</p>
 									
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1016/j.appet.2020.104813"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1016/j.appet.2020.104813"></div>
 										<span class="ribbon">journal</span><br />
 										Jenny Morris, Chi Thanh Vi, Marianna Obrist, Sophie Forster, Martin R.Yeomans<br />
 										<b>Ingested but not perceived: Response to satiety cues disrupted by perceptual load</b><br />
@@ -190,7 +197,7 @@
 										<a href="files/2020.Morris.Ingested.bib" class="button small">BibTeX</a>
 									</p>
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1016/j.ijhcs.2020.102428"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1016/j.ijhcs.2020.102428"></div>
 										<span class="ribbon">journal</span><br />
 										<u>Chi Thanh Vi</u>, Asier Marzo, Gianluca Memoli, Emanuela Maggioni, Damien Ablart, Martin Yeomans, Marianna Obrist<br />
 										<b>LeviSense: A Platform for the Multisensory Integration in Levitating Food and Insights into its Effect on Flavour Perception</b><br />
@@ -200,7 +207,7 @@
 									</p>
 									<h3>2018</h3>
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1145/3279954.3279955"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1145/3279954.3279955"></div>
 										<span class="ribbon">conference</span><br />
 										<u>Chi Thanh Vi</u>, Daniel Arthur, Marianna Obrist<br />
 										<b>TasteBud: Bring Taste Back into the Game</b><br />
@@ -210,7 +217,7 @@
 									</p>
 
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1038/s41598-018-26164-3"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1038/s41598-018-26164-3"></div>
 										<span class="ribbon">journal</span><br />
 										<u>Chi Thanh Vi</u>, Marianna Obrist<br />
 										<b>Sour Promotes Risk-Taking: An Investigation into the Effect of Taste on Risk-Taking Behaviour in Humans</b><br />
@@ -222,7 +229,7 @@
 									<h3>2017</h3>
 									
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="doi.org/10.1145/3137091"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="doi.org/10.1145/3137091"></div>
 										<span class="ribbon">article</span><br />
 										Damien Ablart, Carlos Velasco, <u>Chi Thanh Vi</u>, Elia Gatti, Marianna Obrist<br />
 										<b>The how and why behind a multisensory art display</b><br />
@@ -232,7 +239,7 @@
 									</p>
 									
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1145/3141788.3141794"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1145/3141788.3141794"></div>
 										<span class="ribbon">conference</span><br />
 										<u>Chi Thanh Vi</u>, Damien Ablart, Daniel Arthur, Marianna Obrist<br />
 										<b>Gustatory Interface: The Challenges of 'How' to Stimulate the Sense of Taste</b><br />
@@ -242,7 +249,7 @@
 									</p>
 									
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1145/3132272.3134123"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1145/3132272.3134123"></div>
 										<span class="ribbon">conference</span><br />
 										<u>Chi Thanh Vi</u>, Asier Marzo, Damien Ablart, Gianluca Memoli, Sriram Subramanian, Bruce Drinkwater, Marianna Obrist<br />
 										<b>TastyFloats: A Contactless Food Delivery System</b><br />
@@ -254,7 +261,7 @@
 									</p>
 									
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1145/3122986.3122998"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1145/3122986.3122998"></div>
 										<span class="ribbon">conference</span><br />
 										Dmitrijs Dmitrenko, Emanuela Maggioni, <u>Chi Thanh Vi</u>, Marianna Obrist<br />
 										<b>What Did I Sniff? Mapping Scents Onto Driving-Related Messages</b><br />
@@ -264,7 +271,7 @@
 									</p>	
 
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1145/3126594.3126657"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1145/3126594.3126657"></div>
 										<span class="ribbon">conference</span><br />
 										<u>Chi Thanh Vi</u>, Kasper Hornbæk, Sriram Subramanian<br />
 										<b>Neuroanatomical Correlates of Perceived Usability</b><br />
@@ -275,7 +282,7 @@
 									</p>	
 
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1016/j.ijhcs.2017.06.004"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1016/j.ijhcs.2017.06.004"></div>
 										<span class="ribbon">journal</span><br />
 										<u>Chi Thanh Vi</u>, Damien Ablart, Elia Gatti, Calos Velosco, Marianna Obrist<br />
 										<b>Not just seeing, but also feeling Art: Mid-air Haptic Experiences integrated in a Multisensory Art Exhibition</b><br />
@@ -285,7 +292,7 @@
 									</p>	
 
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1145/3025453.3025457"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1145/3025453.3025457"></div>
 										<span class="ribbon">conference</span><br />
 										Patricia Cornelio Martinez, Silvana De Pirro, <u>Chi Thanh Vi</u>, Sriram Subramanian<br />
 										<b>Agency in mid-air Interfaces</b><br />
@@ -296,7 +303,7 @@
 									</p>	
 
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1109/MMUL.2017.33"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1109/MMUL.2017.33"></div>
 										<span class="ribbon">article</span><br />
 										Marianna Obrist, Elia Gatti, Emanuela Maggioni, <u>Chi Thanh Vi</u>, Carlos Velasco<br />
 										<b>Multisensory Experiences in HCI</b><br />
@@ -307,7 +314,7 @@
 									
 									<h3>2016</h3>
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1145/3003715.3005464"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1145/3003715.3005464"></div>
 										<span class="ribbon">conference</span><br />
 										Dmitrijs Dmitrenko, <u>Chi Thanh Vi</u>, and Marianna Obrist<br />
 										<b>A Comparison of Scent-Delivery Devices and Their Meaningful Use for In-Car Olfactory Interaction</b><br />
@@ -316,7 +323,7 @@
 										<a href="files/2017.Dmitrenko.ScentDeliveryDevices.bib" class="button small">BibTeX</a>
 									</p>	
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1145/2851581.2856462"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1145/2851581.2856462"></div>
 										<span class="ribbon">extended abstract</span><br />
 										Marianna Obrist, Carlos Velasco, <u>Chi Thanh Vi</u>, Nimesha Ranasinghe, Ali Israr, Adrian Cheok, Charles Spence, Ponnampalam Gopalakrishnakone<br />
 										<b>Touch, Taste, &amp; Smell User Interfaces: The Future of Multisensory HCI</b><br />
@@ -325,7 +332,7 @@
 										<a href="files/2017.Obrist.TouchTasteAndSmell.bib" class="button small">BibTeX</a>
 									</p>	
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="xx.xxxx/x.xxxxx.2020.xxxxxx"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="xx.xxxx/x.xxxxx.2020.xxxxxx"></div>
 										<span class="ribbon">workshop</span><br />
 										Dmitrijs Dmitrenko, <u>Chi Thanh Vi</u>, Marianna Obrist<br />
 										<b>A Comparison of Scent-Delivery Devices and their Meaningful Use</b><br />
@@ -334,7 +341,7 @@
 										<a href="" class="button small">BibTeX</a>
 									</p>	
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1145/2973568"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1145/2973568"></div>
 										<span class="ribbon">article</span><br />
 										Marianna Obrist, Carlos Velasco, <u>Chi Thanh Vi</u>, Nimesha Ranasinghe, Ali Israr, Adrian Cheok, Charles Spence, Ponnampalam Gopalakrishnakone<br />
 										<b>Sensing the future of HCI: touch, taste, and smell user interfaces</b><br />
@@ -343,7 +350,7 @@
 										<a href="files/2016.Obrist.SensingTheFuture.bib" class="button small">BibTeX</a>
 									</p>	
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1145/2876456.2879482"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1145/2876456.2879482"></div>
 										<span class="ribbon">conference</span><br />
 										Bo Wan, <u>Chi Thanh Vi</u>, Sriram Subramanian, Diego Martinez Plasencia<br />
 										<b>Enhancing Interactivity with Transcranial Direct Current Stimulation</b><br />
@@ -354,7 +361,7 @@
 									
 									<h3>2015 and earlier</h3>
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="978-3-319-22701-6_36"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="978-3-319-22701-6_36"></div>
 										<span class="ribbon">conference</span><br />
 										Camille Jeunet, <u>Chi Thanh Vi</u>, Daniel Spelmezan, Bernard Nkaoua, Fabien Lotte, Sriram Subramanian<br />
 										<b>Continuous Tactile Feedback for Motor-Imagery based Brain-Computer Interaction in a Multitasking Context</b><br />
@@ -364,7 +371,7 @@
 										<a href="https://youtu.be/myAne7doiH4" target="_blank" class="button small icon fa-youtube">Video</a>
 									</p>	
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1016/j.entcom.2014.08.005"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1016/j.entcom.2014.08.005"></div>
 										<span class="ribbon">journal</span><br />
 										<u>Chi Thanh Vi</u>, Kazuki Takashima, Hitomi Yokoyama, Gengdai Liu, Yuichi Itoh, Sriram Subramanian, Yoshifumi Kitamura<br />
 										<b>A Dynamic Flexible and Interactive Display Method of Digital Photographs</b><br />
@@ -374,7 +381,7 @@
 										<a href="https://www.youtube.com/watch?v=AxWjhSkThew" target="_blank" class="button small icon fa-youtube">Video</a>
 									</p>	
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="xx.xxxx/x.xxxxxx.xxxx.xx.xxx"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="xx.xxxx/x.xxxxxx.xxxx.xx.xxx"></div>
 										<span class="ribbon">technical report</span><br />
 										<u>Chi Thanh Vi</u>, Jason Alexander, Pourang Irani, Behrad Babaee, Sriram Subramanian<br />
 										<b>Quantifying EEG Measured Task Engagement for use in Gaming Applications</b><br />
@@ -383,7 +390,7 @@
 										<a href="files/2014.Vi.QuantifyingEngagement.bib" class="button small">BibTeX</a>
 									</p>	
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1145/2556288.2557015"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1145/2556288.2557015"></div>
 										<span class="ribbon">conference</span><br />
 										<u>Chi Thanh Vi</u>, Izdihar Jamil, David Coyle, Sriram Subramanian<br />
 										<b>Error Related Negativity in Observing Interactive Tasks</b><br />
@@ -393,7 +400,7 @@
 										<a href="https://www.youtube.com/watch?v=n9COvMcY4D0" target="_blank" class="button small icon fa-youtube">Video</a>
 									</p>	
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1007/978-3-319-03161-3_31"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1007/978-3-319-03161-3_31"></div>
 										<span class="ribbon">conference</span><br />
 										<u>Chi Thanh Vi</u>, Kazuki Takashima, Hitomi Yokoyama, Gengdai Liu, Yuichi Itoh, Sriram Subramanian, Yoshifumi Kitamura<br />
 										<b>D-FLIP: Dynamic & Flexible Interactive PhotoShow</b><br />
@@ -404,7 +411,7 @@
 										<a href="https://www.youtube.com/watch?v=n9COvMcY4D0" target="_blank" class="button small icon fa-youtube">Video</a>
 									</p>	
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1145/2542284.2542290"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1145/2542284.2542290"></div>
 										<span class="ribbon">demo</span><br />
 										Yoshifumi Kitamura, <u>Chi Thanh Vi</u>, Gengdai Liu, Kazuki Takashima, Yuichi Itoh, Sriram Subramanian<br />
 										<b>D-FLIP: Dynamic & Flexible Interactive PhotoShow</b><br />
@@ -413,7 +420,7 @@
 										<a href="files/2013.Kitamura.DFLIP.SA.bib" class="button small">BibTeX</a>
 									</p>	
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="10.1145/2207676.2207744"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1145/2207676.2207744"></div>
 										<span class="ribbon">conference</span><br />
 										<u>Chi Thanh Vi</u>, Sriram Subramanian<br />
 										<b>Detecting Error-Related Negativity For Interaction Design</b><br />
@@ -423,7 +430,7 @@
 										<a href="files/2012.Vi.ERN.bib" class="button small">BibTeX</a>
 									</p>
 									<p>
-										<div class='altmetric-embed' data-badge-popover='left' data-link-target='_blank' data-doi="xx.xxxx/x.xxxxxx.xxxx.xx.xxx"></div>
+										<div class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="xx.xxxx/x.xxxxxx.xxxx.xx.xxx"></div>
 										<span class="ribbon">workshop</span><br />
 										<u>Chi Thanh Vi</u>, Sriram Subramanian<br />
 										<b>Online Single Trial Ern Detection As An Interaction Aid In HCI Applications</b><br />

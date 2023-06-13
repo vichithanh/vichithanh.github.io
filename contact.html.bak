@@ -53,12 +53,6 @@
 									Quarter 6, Linh Trung Ward, Thu Duc District,<br />
 									Ho Chi Minh City, Vietnam
 									</p>
-									<p><!-- ScheduleOnce button START -->
-									<button id="SOIBTN_vcthanh" style="background: #006DAF; color: #ffffff; padding: 10px 20px; border: 1px solid #c8c8c8; font: bold 14px Arial; cursor: pointer;"  onclick='var soqueryparam = "https://go.oncehub.com//vcthanh?&bt=1"; if (window.location.href.indexOf("?") > 0) {   soqueryparam += "&"+window.location.href.slice(window.location.href.indexOf("?") + 1);}window.open(soqueryparam)' >Schedule an Appointment</button>
-
-									<!-- ScheduleOnce button END -->
-									</p>
-
 
 									<p class="icon fa-book"><span class="label">email</span>&nbsp;&nbsp;vcthanh@hcmiu.edu.vn</p>
 									<p class="icon fa-book"><span class="label">email</span>&nbsp;&nbsp;C.Vi@sussex.ac.uk</p>

@@ -102,14 +102,13 @@
 									PPIs are good to do if you have one ROI of interest and want to see what's connected with it. They're tricky to interpret, and they can take a really long time to re-estimate if you have several ROIs to explore and many subjects.
 									</p>
 									<h3>Psycho-Physiologic Interaction Analysis: Summary of Steps</h3>
-									<p>Mechanistically, a PPI analysis involves the following steps.</p>
+									<p>Mechanistically, a PPI analysis involves the following steps. 
 									<ol>
 										<li>Performing a standard GLM analysis. 
 										<li>Extracting BOLD signal from a source region identified in the GLM analysis. 
 										<li>Forming the interaction term (source signal x experimental treatment) 
 										<li>Performing a second GLM analysis that includes the interaction term, the source region’s extracted signal and the experimental vector in the design. The inclusion of the source region’s signal and the experimental vector is analogous to including the main effects in an ANOVA in order to make an inference on the interaction. 	
 									</ol>
-									<p>
 									Forming the proper interaction term turns out to be a challenge because of the unique characteristics of fMRI (BOLD) data in which the underlying neural signal is convolved with a hemodynamic response function. However, interactions in the brain take place at the neural and not the hemodynamic level. Therefore, appropriate models of the interactions require the neural signal, which is not measured directly, but instead must be derived by deconvolving the HRF. The PPI software (spm_peb_ppi.m) was developed in order to provide robust deconvolution of the HRF and the proper derivation of the interaction term.
 									</p>
 									

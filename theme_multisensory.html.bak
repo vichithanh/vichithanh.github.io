@@ -1,5 +1,5 @@
-<!--
 <!DOCTYPE HTML>
+<!--
 	Editorial by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -16,12 +16,12 @@
 
 		  gtag('config', 'UA-113315320-1');
 		</script>
-		
+
 		<title>Chi Thanh Vi</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/main.css">
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 	</head>
@@ -48,19 +48,20 @@
 							<!-- Banner -->
 								<section>
 									<header class="major">
-										<h2>Projects</h2>
+										<h2>Multisensory Interface &amp; Novel Interaction Design - Projects</h2>
 									</header>
 									<div class="posts">
-										<!-- <article>
-											<a class="image"><img src="images/proj12_taste_decision_making.jpg" alt="" /></a>
-											<h3>Taste &amp; Decision Making</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-											<ul class="actions">
-												<li><a class="button">Paper</a></li>
-											</ul>
-										</article> -->
 										<article>
-											<a class="image"><img src="images/proj11_tastyfloats.png" alt="TastyFloats" /></a>
+											<a class="image"><img src="images/LeviSenseCAD_All_Units.PNG" alt="LeviSense"></a>
+											<h3>LeviSense</h3>
+											<p>LeviSense is the first integrated platform to investigate multisensory experiences with levitating food. LeviSense can control multiple morsels simultaneously in 3D enabling the manipulation of food's trajectories. The system supports a synchronised integration of levitated food with visual, olfactory, auditory, and tactile stimuli. The system is capable of systematically investigating multisensory aspects around levitated food and eating experiences.</p>
+											<ul class="actions">
+												<li><a href="https://www.sciencedirect.com/science/article/pii/S107158192030032X" target="_blank" class="button">Paper</a></li>
+												<li><a href="https://ars.els-cdn.com/content/image/1-s2.0-S107158192030032X-mmc1.mp4" target="_blank" class="button">Video</a></li>
+											</ul>
+										</article>
+										<article>
+											<a class="image"><img src="images/proj11_tastyfloats.png" alt="TastyFloats"></a>
 											<h3>TastyFloats</h3>
 											<p>TastyFloats is a novel system that uses acoustic levitation to deliver food morsels to the users' tongue. We first address the technical challenges to successfully levitate and deliver different types of foods. Our user study results show that users perceive sweet and umami easily, even in minimal quantities, whereas bitter is the least detectable taste, despite its typical association with an unpleasant taste experience. </p>
 											<ul class="actions">
@@ -69,7 +70,7 @@
 											</ul>
 										</article>
 										<article>
-											<a class="image"><img src="images/proj10_tate_sensorium.jpg" alt="Tate Sensorium" /></a>
+											<a class="image"><img src="images/proj10_tate_sensorium.jpg" alt="Tate Sensorium"></a>
 											<h3>Tate Sensorium</h3>
 											<p>We present research and design insights gained throughout an interdisciplinary collaboration on a six-week multisensory display - Tate Sensorium - exhibited at the Tate Britain art gallery in London, UK. This is a unique and first time case study on how to design art experiences whilst considering all the senses (i.e., vision, sound, touch, smell, and taste), in particular touch, which we exploited by capitalizing on a novel haptic technology, namely, mid-air haptics. </p>
 											<ul class="actions">
@@ -85,7 +86,7 @@
 											</ul>
 										</article>
 										<article>
-											<a class="image"><img src="images/proj08_scent_delivery_devices.JPG" alt="" /></a>
+											<a class="image"><img src="images/proj08_scent_delivery_devices.JPG" alt=""></a>
 											<h3>Scent Delivery Devices</h3>
 											<p>In this paper, we propose a three-dimensional framework to compare different scent-delivery devices based on the distance, volume, and speed of the scent-delivery. We discuss how this initial exploration can guide the design of in-car olfactory interfaces beyond previous work on drivers' physical and emotional state..</p>
 											<ul class="actions">
@@ -93,67 +94,14 @@
 											</ul>
 										</article>
 										<article>
-											<a class="image"><img src="images/proj07_multisensory.JPG" alt="" /></a>
+											<a class="image"><img src="images/proj07_multisensory.JPG" alt=""></a>
 											<h3>Multisensory</h3>
 											<p>When interacting with computers, we mostly rely on vision, audition, and touch, whilst taste and smell remain largely underexploited. It is essential to determine what tactile, gustatory, and olfactory experiences we can design for, and how we can meaningfully stimulate such experiences when interacting with technology. Importantly, it is vital to understand what the limitations are that come into play when users need to monitor more than one sense at a time.</p>
 											<ul class="actions">
 												<li><a href="files/2017-IEEE-Multisensory.pdf" target="_blank" class="button">Paper</a></li>
 											</ul>
 										</article>
-										<article>
-											<a class="image"><img src="images/proj06_agency.JPG" alt="" /></a>
-											<h3>Sense of Agency</h3>
-											<p>The sense of agency (SA), or sense of control, is the subjective awareness of initiating, executing, and controlling one's own volitional actions in the world. In this work, we investigated the SoA in touchless systems using the intentional binding paradigm. In this work, we investigated the SoA in touchless systems using the intentional binding paradigm.</p>
-											<ul class="actions">
-												<li><a href="https://dl.acm.org/authorize?N39054" target="_blank" class="button">Paper</a></li>
-												<li><a href="https://www.youtube.com/watch?v=ETIJsaEOhBI" target="_blank" class="button">Video</a></li>
-											</ul>
-										</article>
-										<article>
-											<a class="image"><img src="images/proj05_fmri_website_usability.jpg" alt="" /></a>
-											<h3>Neural Correlates of Usability</h3>
-											<p>Usability has a distinct subjective component, yet surprisingly little is known about its neural basis and relation to the neuroanatomy of aesthetics. To begin closing this gap, we conducted two functional magnetic resonance imaging (fMRI) studies in which participants were shown static webpages and videos of interaction with webpages.</p>
-											<ul class="actions">
-												<li><a href="files/2017-UIST-fMRI.pdf" target="_blank" class="button">Paper</a></li>
-												<li><a href="https://www.youtube.com/watch?v=tCofx7e15mc" target="_blank" class="button">Video</a></li>
-											</ul>
-										</article>
-										<article>
-											<a class="image"><img src="images/proj04_tdcs.png" alt="" /></a>
-											<h3>Enhancing Interactivity with tDCS</h3>
-											<p>Transcranial Direct Current Stimulation (tDCS) is a non-invasive type of neural stimulation known for modulation of cortical excitability leading to positive effects on working memory and attention. We review the relevant literature and identify potential avenues for exploration within the context of enhancing interactivity and use of low-cost and consumer grade tDCS devices in the context of HCI.</p>
-											<ul class="actions">
-												<li><a href="https://dl.acm.org/authorize?N42829" target="_blank" class="button">Paper</a></li>
-											</ul>
-										</article>
-										<article>
-											<a class="image"><img src="images/proj03_dflip.png" alt="" /></a>
-											<h3>A Dynamic & Flexible and Interactive Display</h3>
-											<p>We propose D-FLIP (Dynamic & Flexible Interactive PhotoShow), a novel algorithm that dynamically and interactively displays digital photos using different organizing principles. The global layout of all photos is automatically varied. We present examples of photograph behaviors that demonstrate the algorithm and then investigate users’ task engagement using EEG in the context of story preparation and telling. </p>
-											<ul class="actions">
-												<li><a href="files/2013-ACE-D-FLIP.pdf" target="_blank" class="button">Paper</a></li>
-												<li><a href="https://www.youtube.com/watch?v=n9COvMcY4D0" target="_blank" class="button">Video</a></li>
-											</ul>
-										</article>
-										<article>
-											<a class="image"><img src="images/proj02_mi_eeg.JPG" alt="" /></a>
-											<h3>Tactile Feedback for Motor-Imagery based BCI</h3>
-											<p>Motor-Imagery based Brain Computer Interfaces (MI-BCIs) allow users to interact with computers by imagining limb movements. MI-BCIs are very promising for a wide range of applications but often require visual feedback to inform the user about the system’s decisions. This work presents our design and evaluation of a tactile feedback glove for MI-BCIs, which provides a continuously updated tactile feedback.</p>
-											<ul class="actions">
-												<li><a href="files/2015-Jeunet-MI-EEG.pdf" target="_blank" class="button">Paper</a></li>
-												<li><a href="https://youtu.be/myAne7doiH4" target="_blank" class="button">Video</a></li>
-											</ul>
-										</article>
-										<article>
-											<a class="image"><img src="images/proj01_ern.jpg" alt="" /></a>
-											<h3>Error Related Negativity for Interaction Design</h3>
-											<p>This paper examines the ability to detect a characteristic brain potential called the Error-Related Negativity (ERN) using off-the-shelf headsets and explores its applicability to HCI. ERN is triggered when a user either makes a mistake or the application behaves differently from their expectation. </p>
-											<ul class="actions">
-												<li><a href="files/2012-CHI-ERN.pdf" target="_blank" class="button">Paper 1</a></li>
-												<li><a href="files/2014-CHI-CRIC-ERN.pdf" target="_blank" class="button">Paper 2</a></li>
-												<li><a href="https://www.youtube.com/watch?v=n9COvMcY4D0" target="_blank" class="button">Video</a></li>
-											</ul>
-										</article>
+										
 									</div>
 								</section>
 
@@ -179,8 +127,9 @@
 									<ul>
 										<li><a href="index.html">Home</a></li>
 										<li><a href="bio.html">Bio</a></li>
+										<li><a href="research_themes.html">Research themes</a></li>
+										<li><a href="teaching.html">Teaching</a></li>
 										<li><a href="publications.html">Publications</a></li>
-										<li><a href="projects.html">Projects</a></li>
 										<li><a href="contact.html">Contact</a></li>
 									</ul>
 								</nav>

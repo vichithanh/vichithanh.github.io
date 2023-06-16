@@ -47,7 +47,7 @@
 
 							<!-- Publications -->
 								<section>
-									<h2>Object-Oriented Programming in Java (IT069IU)</h2>
+									<h2>Data Structures and Algorithms - MSc (IT511)</h2>
 
 									<!-- Content -->
 									<div class="row">
@@ -73,7 +73,6 @@
 								</section> -->
 
 							<!-- Menu -->
-								<!-- Menu -->
 								<nav id="menu">
 									<header class="major">
 										<h2>Menu</h2>
@@ -84,7 +83,6 @@
 										<li><a href="research_themes.html">Research themes</a></li>
 										<li><a href="teaching.html">Teaching</a></li>
 										<li><a href="publications.html">Publications</a></li>
-										<li><a href="contact.html">Contact</a></li>
 									</ul>
 								</nav>
 

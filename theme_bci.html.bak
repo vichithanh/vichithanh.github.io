@@ -128,28 +128,21 @@
 								</nav>
 
 							<!-- Section -->
-								 <!-- <section>
+								<!-- Menu -->
+								<nav id="menu">
 									<header class="major">
-										<h2>Find me at</h2>
+										<h2>Menu</h2>
 									</header>
-									<div class="mini-posts">
-										<article>
-											<a href="https://scholar.google.co.uk/citations?user=CnWxmt8AAAAJ&hl=en" class="image" target="_blank"><img src="images/scholar_logo_64dp.png" alt="" /></a>
-										</article>
-										<article>
-											<a href="https://dl.acm.org/author_page.cfm?id=99658989186" class="image" target="_blank"><img src="images/acm_dl.png" alt="" /></a>
-										</article>
-										<article>
-											<a href="http://dblp.uni-trier.de/pers/hd/v/Vi:Chi_Thanh" class="image" target="_blank"><img src="images/dblp2.png" alt="" /></a>
-										</article>
-										<article>
-											<a href="http://www.sussex.ac.uk/profiles/370345" class="image" target="_blank"><img src="images/sussex_logo.jpg" alt="" /></a>
-										</article>
-										<article>
-											<a href="http://multi-sensory.info/index.php" class="image" target="_blank"><img src="images/schilab_logo.png" alt="" /></a>
-										</article>
-									</div>
-								</section> -->
+									<ul>
+										<li><a href="index.html">Home</a></li>
+										<li><a href="bio.html">Bio</a></li>
+										<li><a href="research_themes.html">Research themes</a></li>
+										<li><a href="teaching.html">Teaching</a></li>
+										<li><a href="publications.html">Publications</a></li>
+										<li><a href="contact.html">Contact</a></li>
+									</ul>
+								</nav>
+
 							<!-- Section -->
 								<section>
 									<header class="major">

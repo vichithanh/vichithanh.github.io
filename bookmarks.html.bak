@@ -74,6 +74,7 @@
 								</section> -->
 
 							<!-- Menu -->
+								<!-- Menu -->
 								<nav id="menu">
 									<header class="major">
 										<h2>Menu</h2>
@@ -84,6 +85,7 @@
 										<li><a href="research_themes.html">Research themes</a></li>
 										<li><a href="teaching.html">Teaching</a></li>
 										<li><a href="publications.html">Publications</a></li>
+										<li><a href="contact.html">Contact</a></li>
 									</ul>
 								</nav>
 
@@ -106,7 +108,6 @@
 										Quarter 6, Linh Trung Ward, Thu Duc District, HCM City, Vietnam</li>
 									</ul>
 								</section>
-
 
 							<!-- Footer -->
 								<footer id="footer">
